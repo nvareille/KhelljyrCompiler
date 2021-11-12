@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhelljyrCompiler", "KhelljyrCompiler\KhelljyrCompiler.csproj", "{A0510E5F-949B-4FF8-BB39-1B3E3D28BDAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4E9D9AB3-6078-4E34-9193-8796A17D734D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhelljyrBuilder", "Khelljyr\KhelljyrBuilder.csproj", "{FE6ECB2D-9928-4FBA-9350-D6874DB425EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A0510E5F-949B-4FF8-BB39-1B3E3D28BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0510E5F-949B-4FF8-BB39-1B3E3D28BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0510E5F-949B-4FF8-BB39-1B3E3D28BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9D9AB3-6078-4E34-9193-8796A17D734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9D9AB3-6078-4E34-9193-8796A17D734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9D9AB3-6078-4E34-9193-8796A17D734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9D9AB3-6078-4E34-9193-8796A17D734D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6ECB2D-9928-4FBA-9350-D6874DB425EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6ECB2D-9928-4FBA-9350-D6874DB425EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6ECB2D-9928-4FBA-9350-D6874DB425EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6ECB2D-9928-4FBA-9350-D6874DB425EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
